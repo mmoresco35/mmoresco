@@ -1,8 +1,8 @@
 H1 { 
-color:red;
+font-color:red;
 }
 
-div{
-margin :auto;
-backgroundocolor: orange;
+div {
+	margin-left : 350px;
+	margin-right : 350px;
 }

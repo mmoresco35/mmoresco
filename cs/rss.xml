@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>rss de tarea 3 apartado uno</title>
+		<link>http://www.eltiempo24.es/Cuenca_-ES3124132.html</link>
+		<description>ejercicio uno de la tarea de la unidad 3</description>
+		<language>es</language>
+		
+		<item>
+			<title>el tiempo en cuenca</title>
+			<guid>http://www.eltiempo24.es/Cuenca_-ES3124132.html</guid>
+			<description>el tiempo en cuenca</description>
+		</item>
+		
+		<item>
+			<title>Noticias de tronos</title>
+			<guid>http://cultura.elpais.com/cultura/2016/12/05/television/1480962217_205420.html</guid>
+			<description>Noticias sobre la serie Juego de tronos</description>
+		</item>
+	</channel>
+</rss>

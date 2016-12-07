@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+		<title>Atom de tarea 3 apartado uno</title>
+		<id>http://www.eltiempo24.es/Cuenca_-ES3124132.html</id>
+		<link rel="self" href="direccion" />
+		<link rel="alternate" href="direccion" />
+		<updated>2016-12-07T11:27:00Z</updated>
+		<author>
+			<name>Miguel Angel Morales Escobar</name>
+			<email>mmoresco35@hotmail.com</email>
+		</author>
+		
+		<entry>
+			<title>el tiempo en cuenca</title>
+			<id>http://www.eltiempo24.es/Cuenca_-ES3124132.html</id>
+			<link href="http://www.eltiempo24.es/Cuenca_-ES3124132.html"/>
+			<updated>2016-12-07T11:27:00Z</updated>
+			<author>
+				<name>Miguel Angel Morales Escobar</name>
+				<email>mmoresco35@hotmail.com</email>
+			</author>
+		</entry>
+		
+		<entry>
+			<title>Noticias de tronos</title>
+			<id>http://cultura.elpais.com/cultura/2016/12/05/television/1480962217_205420.html</id>
+			<link href="http://cultura.elpais.com/cultura/2016/12/05/television/1480962217_205420.html"/>
+			<updated>2016-12-07T11:27:00Z</updated>
+			<author>
+				<name>Miguel Angel Morales Escobar</name>
+				<email>mmoresco35@hotmail.com</email>
+			</author>
+		</entry>
+</feed>
